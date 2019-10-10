@@ -18,7 +18,7 @@ It is recommended that you read the User Guide PDF located above for detailed in
 
 ## Credits
 
-The Plot Locator app was designed and created by [Jere A. Boudell] (http://jabmobilecomp.mystrikingly.com/) and Beth A. Middleton.
+The Plot Locator app was designed and created by [Jere A. Boudell](http://jabmobilecomp.mystrikingly.com/) and Beth A. Middleton.
 
 ## License
 
